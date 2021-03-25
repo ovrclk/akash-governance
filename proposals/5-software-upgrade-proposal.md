@@ -13,4 +13,4 @@ Following are the details of the upgrade:
 - Software Upgrade Name: `akashnet-2-upgrade-1`
 - Title: `Akashnet - Software Upgrade proposal`
 - Version to use for the upgrade: `v0.12.0`
-- Upgrade Height: `415200`
+- Upgrade Height: `455200`
